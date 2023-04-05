@@ -1,0 +1,5 @@
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\Areas\Areas\obj\Debug\net7.0\Areas.csproj.AssemblyReference.cache
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\Areas\Areas\obj\Debug\net7.0\Areas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\Areas\Areas\obj\Debug\net7.0\Areas.AssemblyInfoInputs.cache
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\Areas\Areas\obj\Debug\net7.0\Areas.AssemblyInfo.cs
+C:\Users\Impuestos\Documents\personal\UTN\Ejercicios C#\Ejercicios UTN\Areas\Areas\obj\Debug\net7.0\Areas.csproj.CoreCompileInputs.cache

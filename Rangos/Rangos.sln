@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rangos", "Rangos\Rangos.csproj", "{3D502AA5-B689-4AA0-969F-E08A9B5568A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{221096A2-A3F5-48BC-83BC-146D1A98067B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D502AA5-B689-4AA0-969F-E08A9B5568A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D502AA5-B689-4AA0-969F-E08A9B5568A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D502AA5-B689-4AA0-969F-E08A9B5568A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D502AA5-B689-4AA0-969F-E08A9B5568A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{221096A2-A3F5-48BC-83BC-146D1A98067B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{221096A2-A3F5-48BC-83BC-146D1A98067B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{221096A2-A3F5-48BC-83BC-146D1A98067B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{221096A2-A3F5-48BC-83BC-146D1A98067B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C34B002-CE73-4D56-A81D-A9CEC7115406}
+	EndGlobalSection
+EndGlobal

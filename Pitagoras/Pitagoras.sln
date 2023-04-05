@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pitagoras", "Pitagoras\Pitagoras.csproj", "{EE142348-1369-47AA-894C-146CD2521406}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{10944DA9-457B-4A25-AF4A-1E6617B0C4D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE142348-1369-47AA-894C-146CD2521406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE142348-1369-47AA-894C-146CD2521406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE142348-1369-47AA-894C-146CD2521406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE142348-1369-47AA-894C-146CD2521406}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10944DA9-457B-4A25-AF4A-1E6617B0C4D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10944DA9-457B-4A25-AF4A-1E6617B0C4D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10944DA9-457B-4A25-AF4A-1E6617B0C4D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10944DA9-457B-4A25-AF4A-1E6617B0C4D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A7D1BAF-4C29-4E66-B652-3DFF3383F851}
+	EndGlobalSection
+EndGlobal
